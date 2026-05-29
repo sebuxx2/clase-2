@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input,
+textarea {
+  width: 300px;
+  padding: 8px;
+}
+
+button {
+  padding: 10px;
+}
+
+.invalido {
+  border: 2px solid red;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+h1 {
+  transition: 0.5s;
+}
