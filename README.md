@@ -57,7 +57,7 @@ Al enviar correctamente el formulario, en la consola del navegador se mostrará 
 {
   nombre: "Sebastian",
   email: "sebastian@email.com",
-  mensaje: "Hola Angular"
+  mensaje: "Hola Angular  "
 }
 ```
 
